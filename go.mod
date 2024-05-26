@@ -1,4 +1,4 @@
-module gokit-demo-golang
+module gokitdemo
 
 go 1.19
 
